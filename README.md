@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,bootstrap,jquery,sass,vue,codepen,git,github,latex,ps,py,vscode)](https://skillicons.dev)
+
+
+
 <!--
 **SoyUnaGalleta/SoyUnaGalleta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
